@@ -10,7 +10,7 @@ As shown in the paper: Layer-wise Contrastive Multi-View Clustering with Dynamic
 To facilitate reproduction and fair comparison, we provide the official implementations of the compared methods used in our experiments.
 
 | Comparison Methods | Link |
-| :-----------: | :----: |
+| ----------- | ---- |
 | ONMSC       | [GitHub](https://github.com/xinwangliu/ONMSC) |
 | SMVSC       | [GitHub](https://github.com/Jeaninezpp/SMVSC) |
 | FPMVS-CAG   | [GitHub](https://github.com/wangsiwei2010/FPMVS-CAG) |
