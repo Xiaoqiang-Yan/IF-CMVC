@@ -25,7 +25,7 @@ import torch
 # Caltech-3V
 # Caltech-4V
 # COCO
-Dataname = 'Caltech-2V'
+Dataname = 'BDGP'
 parser = argparse.ArgumentParser(description='train')
 parser.add_argument('--dataset', default=Dataname)
 parser.add_argument('--batch_size', default=256, type=int)
@@ -39,7 +39,7 @@ parser.add_argument("--high_feature_dim", default=128)
 parser.add_argument("--alpha", default=0.0001)
 parser.add_argument("--beta", default=0.1)
 parser.add_argument("--gamma", default=0.01)
-parser.add_argument("--seed", type=int, default=6)
+parser.add_argument("--seed", type=int, default=20)
 parser.add_argument("--patience", default=10, type=int)
 parser.add_argument('--num_heads', type=int, default=8)
 parser.add_argument('--hidden_dim', type=int, default=256)
