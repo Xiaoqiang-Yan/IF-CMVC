@@ -4,9 +4,13 @@ We provide a demo based on BDGP dataset for our submitted paper: Layer-wise Cont
 python>=3.8.10 
 
 pytorch>=1.11.0 
+
 numpy>=1.21.5 
+
 scikit-learn>=1.3.2 
+
 scipy>=1.10.1 
+
 lightly>=1.5.18
 ## Datasets
 The BDGP dataset is provided in the “data” folder, while the other datasets can be downloaded from the internet.
