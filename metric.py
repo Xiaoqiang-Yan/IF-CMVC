@@ -1,5 +1,4 @@
 from sklearn.metrics import normalized_mutual_info_score, accuracy_score
-from sklearn.cluster import KMeans
 from scipy.optimize import linear_sum_assignment
 from torch.utils.data import DataLoader
 import numpy as np
