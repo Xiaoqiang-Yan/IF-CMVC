@@ -11,7 +11,7 @@ To facilitate the reproduction of the comparison experiments and ensure a fair c
 
 | Methods | Link |
 | ----------- | ---- |
-| ONMSC       | [GitHub](https://github.com/xinwangliu/ONMSC) |
+| ONMSC       | [GitHub repository](https://github.com/xinwangliu/ONMSC) |
 | SMVSC       | [GitHub](https://github.com/Jeaninezpp/SMVSC) |
 | FPMVS-CAG   | [GitHub](https://github.com/wangsiwei2010/FPMVS-CAG) |
 | FastMICE    | [GitHub](https://github.com/huangdonghere/FastMICE) |
