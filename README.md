@@ -12,22 +12,22 @@ To facilitate the reproduction of the comparison experiments and ensure a fair c
 | Methods | Link |
 | ----------- | ---- |
 | ONMSC       | [GitHub repository](https://github.com/xinwangliu/ONMSC) |
-| SMVSC       | [GitHub](https://github.com/Jeaninezpp/SMVSC) |
-| FPMVS-CAG   | [GitHub](https://github.com/wangsiwei2010/FPMVS-CAG) |
-| FastMICE    | [GitHub](https://github.com/huangdonghere/FastMICE) |
-| DMIM        | [GitHub](https://github.com/yiqiaomao/DMIM) |
-| DCIB        | [GitHub](https://github.com/Xiaoqiang-Yan/TNNLS-DCIB) |
-| ConGMC      | [GitHub](https://github.com/yiqiaomao/ConGMC) |
-| DIB         | [GitHub](https://github.com/Xiaoqiang-Yan/DIB) |           
-| MFLVC       | [GitHub](https://github.com/SubmissionsIn/MFLVC) |
-| GCFAgg      | [GitHub](https://github.com/Galaxy922/GCFAggMVC) |
-| DealMVC     | [GitHub](https://github.com/xihongyang1999/DealMVC) |
-| MaCL        | [GitHub](https://github.com/yiqiaomao/ProNet) |
-| DIVIDE      | [GitHub](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE) |
-| MNRC        | [GitHub](https://github.com/Xiaoqiang-Yan/MNRC) | 
-| MCMC        | [GitHub](https://github.com/bianjt-morning/MCMC) |
-| MGCMVC      | [GitHub](https://github.com/Luyangabc/MGCMVC) |
-| BMvC        | [GitHub](https://github.com/guanyuezhen/BMvC) | 
+| SMVSC       | [GitHub repository](https://github.com/Jeaninezpp/SMVSC) |
+| FPMVS-CAG   | [GitHub repository](https://github.com/wangsiwei2010/FPMVS-CAG) |
+| FastMICE    | [GitHub repository](https://github.com/huangdonghere/FastMICE) |
+| DMIM        | [GitHub repository](https://github.com/yiqiaomao/DMIM) |
+| DCIB        | [GitHub repository](https://github.com/Xiaoqiang-Yan/TNNLS-DCIB) |
+| ConGMC      | [GitHub repository](https://github.com/yiqiaomao/ConGMC) |
+| DIB         | [GitHub repository](https://github.com/Xiaoqiang-Yan/DIB) |           
+| MFLVC       | [GitHub repository](https://github.com/SubmissionsIn/MFLVC) |
+| GCFAgg      | [GitHub repository](https://github.com/Galaxy922/GCFAggMVC) |
+| DealMVC     | [GitHub repository](https://github.com/xihongyang1999/DealMVC) |
+| MaCL        | [GitHub repository](https://github.com/yiqiaomao/ProNet) |
+| DIVIDE      | [GitHub repository](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE) |
+| MNRC        | [GitHub repository](https://github.com/Xiaoqiang-Yan/MNRC) | 
+| MCMC        | [GitHub repository](https://github.com/bianjt-morning/MCMC) |
+| MGCMVC      | [GitHub repository](https://github.com/Luyangabc/MGCMVC) |
+| BMvC        | [GitHub repository](https://github.com/guanyuezhen/BMvC) | 
 
 
 
