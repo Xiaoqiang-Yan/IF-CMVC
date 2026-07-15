@@ -1,13 +1,13 @@
 # Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow
-We provide a demo based on BDGP dataset for our submitted paper: Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow. Run train.py to show the training process of the model.
+We provide a demo on the BDGP dataset for our submitted paper: Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow. Run train.py to reproduce the training process of the model.
 ## Requirements
 python==3.8.10  pytorch==1.11.0  numpy==1.21.5  scikit-learn==1.3.2  scipy==1.10.1  lightly==1.5.18
 ## Datasets
 The BDGP dataset is provided in the “data” folder, while the other datasets can be downloaded from the internet.
-## Experiment Results
+## Experimental Results
 As shown in the paper: Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow. Run train.py to show the training process of the model.
 ## Comparison Methods
-To facilitate reproduction and fair comparison, we provide the official implementations of the compared methods used in our experiments.
+To facilitate reproduction and fair comparison, we provide the links to the official implementations of the compared methods used in our experiments.
 
 | Methods | Link |
 | ----------- | ---- |
