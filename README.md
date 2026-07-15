@@ -7,7 +7,7 @@ The BDGP dataset is provided in the “data” folder, while the other datasets 
 ## Experimental Results
 As shown in the paper: Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow. Run train.py to show the training process of the model.
 ## Comparison Methods
-To facilitate reproduction and fair comparison, we provide the links to the official implementations of the compared methods used in our experiments.
+To facilitate the reproduction of the comparison experiments and ensure a fair comparison, we provide links to the official implementations of all compared methods used in our experiments.
 
 | Methods | Link |
 | ----------- | ---- |
