@@ -4,12 +4,12 @@ We provide a demo on the BDGP dataset for our submitted paper, ``Layer-wise Cont
 python==3.8.10  pytorch==1.11.0  numpy==1.21.5  scikit-learn==1.3.2  scipy==1.10.1  lightly==1.5.18
 ## Datasets
 The BDGP dataset is provided in the “data” folder, while the other datasets can be downloaded from their corresponding official sources.
-## Experimental Results
+## Test Results
 As shown in the paper: Layer-wise Contrastive Multi-view Clustering with Dynamic Information Flow. Run train.py to show the training process of the model.
-## Comparison Methods
-To facilitate the reproduction of the comparison experiments and ensure a fair comparison, we provide links to the official implementations of all compared methods used in our experiments.
+## Comparison Approaches
+To facilitate the reproduction of the comparison tests and ensure a fair comparison, we provide links to the official implementations of all compared approaches used in our tests.
 
-| Methods   | Official implementation link                                                                 |
+| Approaches| Official implementation link                                                                 |
 |:----------|:--------------------------------------------------------------------------------|
 | ONMSC     | [https://github.com/xinwangliu/ONMSC](https://github.com/xinwangliu/ONMSC) |
 | SMVSC     | [https://github.com/Jeaninezpp/SMVSC](https://github.com/Jeaninezpp/SMVSC) |
