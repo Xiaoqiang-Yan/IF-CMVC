@@ -28,8 +28,3 @@ To facilitate the reproduction of the comparison tests and ensure a fair compari
 | MCMC      | [https://github.com/bianjt-morning/MCMC](https://github.com/bianjt-morning/MCMC) |
 | MGCMVC    | [https://github.com/Luyangabc/MGCMVC](https://github.com/Luyangabc/MGCMVC) |
 | BMvC      | [https://github.com/guanyuezhen/BMvC](https://github.com/guanyuezhen/BMvC) |
-
-
-
-
-
